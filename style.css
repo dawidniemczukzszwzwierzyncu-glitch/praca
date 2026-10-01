@@ -1,0 +1,26 @@
+#rodzic {
+    display: flex;
+    height: 1000px;
+}
+#lewa {
+    width: 50%;
+    display: block;
+    background-color: brown;
+}
+#gora {
+    height: 20%;
+    background-color: blueviolet;
+}
+#prawa {
+    width: 50%;
+    display: block;
+    background-color: chartreuse;
+}
+#goradwa {
+    height: 40%;
+    background-color: coral;
+}
+footer {
+    height: 100px;
+    background-color: crimson;
+}
