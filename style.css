@@ -1,26 +1,15 @@
-#rodzic {
-    display: flex;
-    height: 1000px;
+.aktualnosc {
+  width: 300px;
+  padding: 30px;
+  margin: 16px;
+  border: solid 4px black;
+  background-color: chartreuse;
 }
-#lewa {
-    width: 50%;
-    display: block;
-    background-color: brown;
-}
-#gora {
-    height: 20%;
-    background-color: blueviolet;
-}
-#prawa {
-    width: 50%;
-    display: block;
-    background-color: chartreuse;
-}
-#goradwa {
-    height: 40%;
-    background-color: coral;
-}
-footer {
-    height: 100px;
-    background-color: crimson;
+
+.niewiem {
+  width: 300px;
+  padding: 30px;
+  margin: 16px;
+  border: solid 4px black;
+  background-color: red;
 }
